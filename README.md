@@ -2,4 +2,4 @@
 Os cartões de pontuação de crédito são um método comum de controle de risco no setor financeiro.
 
 
-![](credit_approval.png)
+![](images/credit_approval.png)
